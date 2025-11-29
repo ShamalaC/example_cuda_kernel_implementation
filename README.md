@@ -2,9 +2,8 @@ This project contains a very simple CUDA C++ program that demonstrates example o
 
 ## Project Structure
 cuda-addition/
-│
-├── add_arrays.cu        # Main CUDA file (kernel + host code)
-└── README.md            # This file
+1. add_arrays.cu        # Main CUDA file (kernel + host code)
+2. README.md            # This file
 
 ## Prerequisites
 
